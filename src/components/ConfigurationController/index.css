@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.Config-container {
+  background-color: #475569;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.label-style {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+  color: #f1f5f9;
+  margin-left: 5px;
+  line-height: 2.5;
+}

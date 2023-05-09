@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.container-body {
+  display: flex;
+}
+.Left-Menu-Container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  width: 200px;
+  margin-right: 10px;
+}
+.Right-Menu-Container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  width: 200px;
+  margin-left: 10px;
+}
+.Middle-Menu-Container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  width: 100%;
+}
+.body-heading-style {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+  color: #475569;
+}
+.body-para {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 400;
+  color: #475569;
+}
+.container-sub-right-sizing {
+  width: 100px;
+  height: 100px;
+  border: solid #475569 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+}
+.margin-bot {
+  margin-bottom: 5px;
+}
